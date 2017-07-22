@@ -10,8 +10,8 @@
   - Career support
 - Community
   - Meetup spaces
-  - 2-3 meetups, 3 nights per week
-  - Hundreds of people per week
+  - 2-3 events per night, 3 nights per week
+  - We reached hundreds of people per week
   - Free crash-courses
   - Kids classes
   - Alumni Network
