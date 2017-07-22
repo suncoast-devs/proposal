@@ -1,17 +1,13 @@
 # On continuing The Iron Yard's legacy in Tampa Bay
 
- - What The Iron Yard brought to the area
- - Why those efforts cannot be abandoned
-
-![The Iron Yard](images/tiy.svg)
-
+- What The Iron Yard brought to the area
+- Why those efforts cannot be abandoned
 - Full-time Immersive Education
   - Proven track record
   - Benefit of junior developers to employers
   - Economic benefit to Tampa Bay
   - Demo Day events
   - Career support
-
 - Community
   - Meetup spaces
   - 2-3 meetups, 3 nights per week
@@ -20,7 +16,6 @@
   - Kids classes
   - Alumni Network
   - Promotion of diversity in our local tech sector.
-
 - Improving on the mission
   - Part-time and introductory programs:
     - area underserved by TIY
@@ -39,13 +34,10 @@
   - Over 1000 users in Slack
   - **The Current mission is already closely aligned with TIY**
 
-![Suncoast Developers Guild](images/sdg.svg)
-
 - Goals moving forward
   - Expand the scope of The Suncoast Developers Guild mission as a non-profit to continue the work of The Iron Yard's Tampa Bay team: providing access to code education to _everyone_.
   - Find a new space
     - affordable and flexible
-
 - Budget
  - Team salaries & benefits
  - Location overhead and expenses (e.g. rent, utilities, furniture)
