@@ -20,9 +20,9 @@
   - Part-time and introductory programs:
     - area underserved by TIY
     - Bringing opportunity to parts of our community that need it most
-    - Ask more of our community volunteers to make this happen:
+    - Utilize our community volunteers to make this happen:
       - We already had people doing this
-      - As a non-profit, we can ask more of them
+      - As a non-profit, we can ask more of the community
   - By providing a clear starting path for the *true beginners* we can raise the bar for our full-time program, resulting in graduates with stronger skills.
   - Co-op membership
     - co-working benefits to volunteer mentors
