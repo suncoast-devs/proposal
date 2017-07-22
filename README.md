@@ -35,7 +35,7 @@
   - **The Current mission is already closely aligned with TIY**
 
 - Goals moving forward
-  - Expand the scope of The Suncoast Developers Guild mission as a non-profit to continue the work of The Iron Yard's Tampa Bay team: providing access to code education to _everyone_.
+  - Expand the scope of The Suncoast Developers Guild mission as a non-profit to continue the work of The Iron Yard's Tampa Bay team: providing access to code education for _everyone_.
   - Find a new space
     - affordable and flexible
 - Budget
