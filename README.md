@@ -44,7 +44,8 @@ By offering cooperative memberships to donors and volunteer mentors we believe t
 
 Signed, The Iron Yard Team of Tampa Bay:
 
-- [__Jason L Perry__]()
+- [__Jason L Perry__](https://twitter.com/ambethia)
+- [__Katherine Trammell__](https://twitter.com/ktrammell95)
 - ...et al?
 
 ---
