@@ -35,7 +35,7 @@ We believe what our campus has helped build with the community in St Petersburg 
 We look to expand the scope of The Suncoast Developers Guild's mission as a non-profit organization and continue the work of our team: **providing access to code education for _everyone_.**
 
 - Continue our immersive full-time education for students accepted into our program, paid for by tuition or sponsored scholarships.
-- Continue and expand on part-time curriculum for children and adults led by our instructors and community volunteers.
+- Continue and expand on part-time curriculum for children and adults led by our instructors and community volunteers. These programs would serve as a prerequisite for and lead students into our immersive offerings.
 - Continue providing free event space for meet-up organizers
 - Open co-working for volunteer mentors
 - Bespoke training for employees of corporate sponsors
