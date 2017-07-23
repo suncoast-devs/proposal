@@ -1,4 +1,4 @@
-**DRAFT**
+**DRAFT, EXCUSE THE GRAMMAR**
 
 # On continuing The Iron Yard's legacy in Tampa Bay...
 
