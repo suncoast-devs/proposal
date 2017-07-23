@@ -4,6 +4,8 @@
 
 When The Iron Yard came to St Petersburg in 2014, it brought it's mission of connecting with people the craft and lifelong adventure of technology and programming. Through it's full-time immersive curriculum, our instructors have a proven track record of equipping students with the skills they need to both get started and progress throughout their careers. Each of our campus' seven Demo Day events successively brought more and more of Tampa Bay's best technology companies together, looking to bring our graduates into the workforce. As time went on, our top-notch career support continued to assist alumni as they transitioned from their first junior roles and grow into their own as full fledged developers.
 
+Our Web Development Career Path was a full-time, 12-week course with a career-focused curriculum. Students learned to create dynamic websites and applications as well as gain an understanding of what it takes to become successful web developers in the industry today. Students also received in-depth career support that includes soft-skill development like resume and portfolio building, interview techniques, and more.
+
 We also became a central hub in the Tampa Bay tech community. Our doors were open to dozens of meet-up groups. Three nights each week, the space hosted two or three different public events. In addition to the outside community groups that used the space, we offered free monthly crash-courses and our enormously popular kid's classes led by volunteer instructors.
 
 ## These efforts should not be abandoned
@@ -14,7 +16,7 @@ Another critical component is the fostering of a healthy tech community. Each we
 
 ## Improving on the mission
 
-Not every person who might make a great programmer tomorrow is a great fit for our program today. Some are not in the position to take three to four months for total immersion, while others are not prepared for the "drinking from a firehouse" pace. For some, the cost was just simply out of reach. We believe these to be areas underserved by The Iron Yard.
+Not every person who will make a great developer tomorrow is a great fit for our program today. Some are not in the position to take three or four months for total immersion, while others are not prepared for the "drinking from a firehouse" pace. For some, the cost was just simply out of reach. We believe these areas to be currently underserved.
 
 Part-time and softer introductory offerings would help to bring opportunities to parts of our community that need it most. In many ways the meet-ups, our alumni and community volunteers were already making this happen. We believe that as a non-profit organization, we can make this a core goal of the school and ask more of the community to help us achieve it.
 
