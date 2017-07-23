@@ -10,7 +10,7 @@ We also became a central hub in the Tampa Bay tech community. Our doors were ope
 
 ## These efforts should not be abandoned
 
-It is well understood, that as Tampa Bay's information technology industry grows, the skill shortage continues to become more apparent. Seasoned software engineers are highly sought after by firms looking to meet these needs. Students coming out of our program were equipped with the hands-on practical experience needed to begin filling the talent gap. As these Junior developers continued to be nurtured and mentored in the workforce, they provided immense benefit to our local economy.
+It is well understood, that as Tampa Bay's information technology industry grows, the skill shortage continues to become more apparent. Seasoned software engineers are highly sought after by firms looking to meet these needs. Students coming out of our program were equipped with the hands-on practical experience needed to begin filling the talent gap. As these junior developers continued to be nurtured and mentored in the workforce, they provided immense benefit to our local economy.
 
 Another critical component is the fostering of a healthy tech community. Each week events on the campus reached hundreds of people, not only sharing knowledge, but also our culture and values. The alumni network, spread across dozens of local companies, helped achieve our goal of promoting diversity of all kinds across the technology sector.
 
