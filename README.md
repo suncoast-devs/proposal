@@ -1,40 +1,45 @@
 # On continuing The Iron Yard's legacy in Tampa Bay...
 
-When The Iron Yard came to St Petersburg in 2014 it brought it's mission of connecting with people the craft and lifelong adventure of technology and programming. Through it's full-time immersive curriculum, the instructors had a proven track record of equipping them with the skills they needed to both get started and progress throughout their careers. Each of The Iron Yard's seven Demo Day events successively brought more and more of Tampa Bay's best technology companies together, looking to bring our graduates into the workforce. As time went on the campus' top-notch career support continued to assist alumni as they transitions from their first junior roles and grew into their own as full fledged developers.
+When The Iron Yard came to St Petersburg in 2014 it brought it's mission of connecting with people the craft and lifelong adventure of technology and programming. Through it's full-time immersive curriculum, our instructors have a proven track record of equipping them with the skills they need to both get started and progress throughout their careers. Each of The Iron Yard's seven Demo Day events successively brought more and more of Tampa Bay's best technology companies together, looking to bring our graduates into the workforce. As time went on our campus' top-notch career support continued to assist alumni as they transitions from their first junior roles and grew into their own as full fledged developers.
 
-The Iron Yard also became a central hub in the Tampa Bay tech community. It's doors were open to dozens of Meetup groups. Three nights each week, the space hosted 2 or 3 different public events. In addition to the individual groups that used the space, The Iron Yard itself offered free monthly crash-courses and our enormously popular kid's classes.
+We also became a central hub in the Tampa Bay tech community. Our doors were open to dozens of meet-up groups. Three nights each week, the space hosted two or three different public events. In addition to the outside community groups that used the space, we offered free monthly crash-courses and our enormously popular kid's classes led by volunteer instructors.
 
-## Why these efforts should not be abandoned
+## These efforts should not be abandoned
 
-It is well understood, that as Tampa Bay's information technology industry grows, the skill shortage continues to become more apparent. Seasoned software engineers are highly sought after by firms looking to meet these needs. Students coming out of The Iron Yard are equipped with the hands-on practical experience needed to begin filling the talent gap. As these Junior developers continue to be nurtured and mentored in the workforce, they provide immense benefit to our local economy.
+It is well understood, that as Tampa Bay's information technology industry grows, the skill shortage continues to become more apparent. Seasoned software engineers are highly sought after by firms looking to meet these needs. Students coming out of our program are equipped with the hands-on practical experience needed to begin filling the talent gap. As these Junior developers continue to be nurtured and mentored in the workforce, they provide immense benefit to our local economy.
 
-Another critical component is the fostering of a healthy tech community. Each week events at The Iron Yard reached hundreds of people, not only sharing knowledge, but also it's culture and values. The alumni network, spread across dozens of local companies, help achieve the goal of promoting diversity of all kinds across the technology sector.
+Another critical component is the fostering of a healthy tech community. Each week events on the campus reached hundreds of people, not only sharing knowledge, but also our culture and values. The alumni network, spread across dozens of local companies, help achieve our goal of promoting diversity of all kinds across the technology sector.
 
 ## Improving on the mission
 
-- Part-time and introductory programs:
-  - area underserved by TIY
-  - Bringing opportunity to parts of our community that need it most
-  - Utilize our community volunteers to make this happen:
-    - We already had people doing this
-    - As a non-profit, we can ask more of the community
-- By providing a clear starting path for the *true beginners* we can raise the bar for our full-time program, resulting in graduates with stronger skills.
-- Co-op membership
-  - co-working benefits to volunteer mentors
-  - donating time or money
+Not every person who might make a great programmer tomorrow is a great fit for our program today. Some are not in the position to take three to four months for total immersion, while others are not prepared for the "drinking from a firehouse" pace. For some, the cost was just simply out of reach. We believe these to be areas underserved by The Iron Yard.
+
+Part-time and softer introductory offerings would help to bring opportunities to parts of our community that need it most. In many ways the meet-ups, our alumni and community volunteers were already making this happen. We believe that as a non-profit organization, we can make this a core goal of the school and ask more of the community to help us achieve it.
+
+Many students who came to The Iron Yard started from ground-zero. We see our task as teaching students to "learn how to learn" programming. While we pride ourselves in achieving this with all of our graduates, our strongest students are those who know what they're getting into and already have had a taste for "the joy of code". By providing clearly defined starting path for the *absolute beginners* for free, we can also raise the bar for students accepted to our full-time program as apprentices. A student will graduate with an even *stronger* skillset, ready to begin their profession career as a true journeyman developer. Traditionally the path from apprentice, to journeyman, to a master craftsman is overseen by a guild.
 
 ## What is The Suncoast Developers Guild?
 
-  - LOCAL
-  - Dozens of Meetup groups representing thousands of developers around Tampa Bay
-  - Over 1000 users in Slack
-  - The current mission is already closely aligned with TIY
+The Suncoast Developers Guild, founded in 2015, is a informal collective of software engineers, programmers, and designers in the Tampa Bay Area. It boasts membership by dozens of meet-up groups representing thousands of local developers. The Slack team is over 1000 users strong and has 163 channels dedicated to discussing programming and technology. The goals of the organization is closely aligned with The Iron Yard's own mission. The Suncoast Developers Guild's current mission:
 
-## Goals moving forward
+> Our purpose is to promote a sense of community among local technology organizations and their members. We seek to better communication between leaders, centralize efforts, improve culture, and to support our members in a way that strengthens our community and promotes the common good.
 
-  - Expand the scope of The Suncoast Developers Guild mission as a non-profit to continue the work of The Iron Yard's Tampa Bay team: providing access to code education for _everyone_.
-  - Find a new space
-    - affordable and flexible
+We believe what our campus has helped build with the community in St Petersburg and all around Tampa Bay should continue, and that The Suncoast Developers Guild is the ideal way to fulfill that vision.
+
+## Looking Forward
+
+We look to expand the scope of The Suncoast Developers Guild mission as a non-profit organization and continue the work of The Iron Yard's Tampa Bay team: **providing access to code education for _everyone_.**
+
+By offering cooperative memberships to donors and volunteer mentors we believe these companies and individuals will have a vested interest in strengthening the community they are already a part of.
+
+---
+
+### Example benefits of membership
+
+- We will continue our immersive full-time education for students accepted into our program, paid for by tuition or sponsored scholarships.
+- Free event space for meet-up organizers
+- Free co-working for volunteer mentors
+- Bespoke training for employees of corporate sponsors
 
 ---
 
