@@ -46,7 +46,7 @@ Signed, The Iron Yard Team of Tampa Bay:
 
 - [__Jason L Perry__](https://twitter.com/ambethia)
 - [__Katherine Trammell__](https://twitter.com/ktrammell95)
-- [Mark Dewey](https://twitter.com/juggler2009)
+- [__Mark Dewey__](https://twitter.com/juggler2009)
 - ...et al?
 
 ---
