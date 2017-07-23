@@ -2,9 +2,9 @@
 
 # On continuing The Iron Yard's legacy in Tampa Bay...
 
-When The Iron Yard came to St Petersburg in 2014, it brought its mission of connecting people with the craft and lifelong adventure of technology and programming. Through its full-time immersive curriculum, our instructors had a proven track record of equipping students with the skills they needed to both get started and progress throughout their careers. Each of our campus' seven Demo Day events successively brought more and more of Tampa Bay's best technology companies together, looking to bring our graduates into the workforce.
+When The Iron Yard came to St Petersburg in 2014, it brought its mission of connecting people with the craft and lifelong adventure of technology and programming. Through its full-time immersive curriculum, our instructors had a proven track record of equipping students with the skills they needed to both get started and progress throughout their careers. Each of our campus' seven Demo Day events successively brought more and more of Tampa Bay's best technology companies together, looking to bring the new developers into the workforce.
 
-Our immersive program was a 12-week course with a career-focused curriculum. Students learned to create dynamic websites and applications as well as gain an understanding of what it takes to become successful web developers in the industry today. Our top-notch career support included soft-skill development like resume and portfolio building, interview techniques, and more. This continued to assist alumni as they transitioned from their first junior roles and grew into their own as full fledged developers.
+Our immersive program was a 12-week course with a career-focused curriculum. Students learned to create dynamic websites and applications as well as gain an understanding of what it takes to become successful web developers in the industry today. Our campus boasted a 98% placement rate for graduates. Our top-notch career support included soft-skill development like resume and portfolio building, interview techniques, and more. This support continued to assist alumni as they transitioned from their first junior roles and grew into their own as full fledged developers.
 
 We also became a central hub in the Tampa Bay tech community. Our doors were open to dozens of meet-up groups. Three nights each week, the space hosted two or three different public events. In addition to the outside community groups that used the space, we offered free monthly crash-courses and our enormously popular kid's classes led by volunteer instructors.
 
@@ -20,7 +20,7 @@ Not every person who will make a great developer tomorrow is a fit for our progr
 
 Part-time and softer introductory offerings would help to bring opportunities to parts of our community that need it most. In many ways the meet-ups, our alumni and community volunteers are already making this happen. We believe that as a non-profit organization, we can make this a core goal of the school and ask more of the community to help us achieve it.
 
-Many students come to us starting from ground-zero. We see our task as teaching students to "learn how to learn" programming. While we pride ourselves in achieving this with all of our graduates, our strongest students are those who know what they're getting into and already have had a taste for "the joy of code". By providing clearly defined starting path for the *absolute beginners* for free, we can also raise the bar for students accepted to our full-time program as apprentices. A student will graduate with an even *stronger* skillset, ready to begin their professional career as a true journeyman developer. Traditionally the path from apprentice, to journeyman, to a master craftsman is overseen by a guild.
+Many students come to us starting from ground-zero. We see our task as teaching students to "learn how to learn" programming. While we pride ourselves in achieving this with all of our graduates, our strongest students are those who know what they're getting into and already have had a taste for "the joy of code". By providing clearly defined starting path for the *absolute beginners*, we can also raise the bar for students accepted to our full-time program as apprentices. A student will graduate with an even *stronger* skillset, ready to begin their professional career as a true journeyman developer. Traditionally the path from apprentice, to journeyman, to a master craftsman is overseen by a guild.
 
 ## What is The Suncoast Developers Guild?
 
@@ -36,7 +36,7 @@ We look to expand the scope of The Suncoast Developers Guild's mission as a non-
 
 - Continue our immersive full-time education for students accepted into our program, paid for by tuition or sponsored scholarships.
 - Continue and expand on part-time curriculum for children and adults led by our instructors and community volunteers. These programs would serve as a prerequisite for and lead students into our immersive offerings.
-- Continue providing free event space for meet-up organizers
+- Continue providing event space for meet-up organizers
 - Open co-working for volunteer mentors
 - Bespoke training for employees of corporate sponsors
 
