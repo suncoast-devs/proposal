@@ -12,11 +12,11 @@ We also became a central hub in the Tampa Bay tech community. Our doors were ope
 
 It is well understood, that as Tampa Bay's information technology industry grows, the skill shortage continues to become more apparent. Seasoned software engineers are highly sought after by firms looking to meet these needs. Students coming out of our program are equipped with the hands-on practical experience needed to begin filling the talent gap. As these Junior developers continue to be nurtured and mentored in the workforce, they provide immense benefit to our local economy.
 
-Another critical component is the fostering of a healthy tech community. Each week events on the campus reached hundreds of people, not only sharing knowledge, but also our culture and values. The alumni network, spread across dozens of local companies, help achieve our goal of promoting diversity of all kinds across the technology sector.
+Another critical component is the fostering of a healthy tech community. Each week events on the campus reached hundreds of people, not only sharing knowledge, but also our culture and values. The alumni network, spread across dozens of local companies, helped achieve our goal of promoting diversity of all kinds across the technology sector.
 
 ## Improving on the mission
 
-Not every person who will make a great developer tomorrow is a great fit for our program today. Some are not in the position to take three or four months for total immersion, while others are not prepared for the "drinking from a firehouse" pace. For some, the cost was just simply out of reach. We believe these areas to be currently underserved.
+Not every person who will make a great developer tomorrow is a great fit for our program today. Some are not in the position to give three or four months for total immersion, while others are not prepared for the "drinking from a firehouse" pace. For some, the cost was just simply out of reach. We believe these areas to be currently underserved.
 
 Part-time and softer introductory offerings would help to bring opportunities to parts of our community that need it most. In many ways the meet-ups, our alumni and community volunteers were already making this happen. We believe that as a non-profit organization, we can make this a core goal of the school and ask more of the community to help us achieve it.
 
