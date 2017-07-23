@@ -16,7 +16,7 @@ Another critical component is the fostering of a healthy tech community. Each we
 
 ## Improving on the mission
 
-Not every person who will make a great developer tomorrow is a great fit for our program today. Some are not in the position to give three or four months for total immersion, while others are not prepared for the "drinking from a firehouse" pace. For some, the cost was just simply out of reach. We believe these areas to be currently underserved.
+Not every person who will make a great developer tomorrow is a fit for our program today. Some are not in the position to give three or four months for total immersion, while others are not prepared for the "drinking from a firehouse" pace. For some, the cost was just simply out of reach. We believe these areas to be currently underserved.
 
 Part-time and softer introductory offerings would help to bring opportunities to parts of our community that need it most. In many ways the meet-ups, our alumni and community volunteers were already making this happen. We believe that as a non-profit organization, we can make this a core goal of the school and ask more of the community to help us achieve it.
 
