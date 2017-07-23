@@ -30,7 +30,7 @@ We believe what our campus has helped build with the community in St Petersburg 
 
 ## Looking Forward
 
-We look to expand the scope of The Suncoast Developers Guild mission as a non-profit organization and continue the work of The Iron Yard's Tampa Bay team: **providing access to code education for _everyone_.**
+We look to expand the scope of The Suncoast Developers Guild's mission as a non-profit organization and continue the work of The Iron Yard's Tampa Bay team: **providing access to code education for _everyone_.**
 
 By offering cooperative memberships to donors and volunteer mentors we believe these companies and individuals will have a vested interest in strengthening the community they are already a part of.
 
