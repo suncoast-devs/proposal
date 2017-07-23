@@ -32,16 +32,18 @@ We believe what our campus has helped build with the community in St Petersburg 
 
 We look to expand the scope of The Suncoast Developers Guild's mission as a non-profit organization and continue the work of The Iron Yard's Tampa Bay team: **providing access to code education for _everyone_.**
 
+- Continue our immersive full-time education for students accepted into our program, paid for by tuition or sponsored scholarships.
+- A free part-time curriculum for children and adults led by our instructors and community volunteers.
+- Continue providing free event space for meet-up organizers
+- Open co-working for volunteer mentors
+- Bespoke training for employees of corporate sponsors
+
 By offering cooperative memberships to donors and volunteer mentors we believe these companies and individuals will have a vested interest in strengthening the community they are already a part of.
 
----
+Signed, The Iron Yard Team of Tampa Bay
 
-### Example benefits of membership
-
-- We will continue our immersive full-time education for students accepted into our program, paid for by tuition or sponsored scholarships.
-- Free event space for meet-up organizers
-- Free co-working for volunteer mentors
-- Bespoke training for employees of corporate sponsors
+- __Jason L Perry__
+- ...et al?
 
 ---
 
