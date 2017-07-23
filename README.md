@@ -2,9 +2,9 @@
 
 # On continuing The Iron Yard's legacy in Tampa Bay...
 
-When The Iron Yard came to St Petersburg in 2014, it brought it's mission of connecting with people the craft and lifelong adventure of technology and programming. Through it's full-time immersive curriculum, our instructors have a proven track record of equipping students with the skills they need to both get started and progress throughout their careers. Each of our campus' seven Demo Day events successively brought more and more of Tampa Bay's best technology companies together, looking to bring our graduates into the workforce. As time went on, our top-notch career support continued to assist alumni as they transitioned from their first junior roles and grow into their own as full fledged developers.
+When The Iron Yard came to St Petersburg in 2014, it brought it's mission of connecting with people the craft and lifelong adventure of technology and programming. Through it's full-time immersive curriculum, our instructors have a proven track record of equipping students with the skills they need to both get started and progress throughout their careers. Each of our campus' seven Demo Day events successively brought more and more of Tampa Bay's best technology companies together, looking to bring our graduates into the workforce.
 
-Our Web Development Career Path was a full-time 12-week course with a career-focused curriculum. Students learned to create dynamic websites and applications as well as gain an understanding of what it takes to become successful web developers in the industry today. Students also received in-depth career support that includes soft-skill development like resume and portfolio building, interview techniques, and more.
+Our Web Development Career Path was a 12-week course with a career-focused curriculum. Students learned to create dynamic websites and applications as well as gain an understanding of what it takes to become successful web developers in the industry today. Our top-notch career support included soft-skill development like resume and portfolio building, interview techniques, and more. This continued to assist alumni as they transitioned from their first junior roles and grew into their own as full fledged developers.
 
 We also became a central hub in the Tampa Bay tech community. Our doors were open to dozens of meet-up groups. Three nights each week, the space hosted two or three different public events. In addition to the outside community groups that used the space, we offered free monthly crash-courses and our enormously popular kid's classes led by volunteer instructors.
 
@@ -42,7 +42,7 @@ We look to expand the scope of The Suncoast Developers Guild's mission as a non-
 
 By offering cooperative memberships to donors and volunteer mentors we believe these companies and individuals will have a vested interest in strengthening the community they are already a part of.
 
-Signed, The Iron Yard Team of Tampa Bay
+Signed, The Iron Yard Team of Tampa Bay:
 
 - [__Jason L Perry__]()
 - ...et al?
