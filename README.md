@@ -49,12 +49,4 @@ Signed, The Iron Yard Team of Tampa Bay:
 - [__Mark Dewey__](https://twitter.com/juggler2009)
 - [__Holly Valenty__](https://twitter.com/hollllllyv)
 - [__Katherine Trammell__](https://twitter.com/ktrammell95)
-- ...et al?
-
----
-
-# Budget
-  - Team salaries & benefits
-  - Location overhead and expenses (e.g. rent, utilities, furniture)
-  - Advertising & Marketing efforts
-  - Other costs, e.g. events (demo day), travel (conferences), and computer equipment
+- [__Angel Murchison__](https://twitter.com/httpsMurchison)
