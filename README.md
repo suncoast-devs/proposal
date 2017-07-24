@@ -1,4 +1,4 @@
-**DRAFT, EXCUSE THE GRAMMAR**
+**TL;DR:** The work done by The Iron Yard's team and our community will continue in Tampa Bay.
 
 # On continuing The Iron Yard's legacy in Tampa Bay...
 
@@ -45,9 +45,10 @@ By offering cooperative memberships to donors and volunteer mentors we believe t
 Signed, The Iron Yard Team of Tampa Bay:
 
 - [__Jason L Perry__](https://twitter.com/ambethia)
-- [__Katherine Trammell__](https://twitter.com/ktrammell95)
+- [__Gavin Stark__](https://twitter.com/gavinstark)
 - [__Mark Dewey__](https://twitter.com/juggler2009)
 - [__Holly Valenty__](https://twitter.com/hollllllyv)
+- [__Katherine Trammell__](https://twitter.com/ktrammell95)
 - ...et al?
 
 ---
