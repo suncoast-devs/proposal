@@ -1,4 +1,4 @@
-**TL;DR:** The work done by The Iron Yard's team and our community will continue in Tampa Bay.
+**TL;DR:** The work done by The Iron Yard's team and our community will continue.
 
 # On continuing The Iron Yard's legacy in Tampa Bay...
 
