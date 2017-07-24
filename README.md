@@ -18,7 +18,7 @@ Another critical component is the fostering of a healthy tech community. Each we
 
 Not every person who will make a great developer tomorrow is a fit for our program today. Some are not in the position to give three or four months for total immersion, while others are not prepared for the "drinking from a firehose" pace. For some, the cost is just simply out of reach. We believe these areas to be currently underserved.
 
-Part-time and softer introductory offerings would help to bring opportunities to parts of our community that need it most. In many ways the meet-ups, our alumni and community volunteers are already making this happen. We believe that as a non-profit organization, we can make this a core goal of the school and ask more of the community to help us achieve it.
+Part-time and softer introductory offerings would help to bring opportunities to parts of our community that need it most. In many ways the meet-ups, our alumni and community volunteers are already making this happen. We believe we can make this a core goal of the school and ask more of the community to help us achieve it.
 
 Many students come to us starting from ground-zero. We see our task as teaching students to "learn how to learn" programming. While we pride ourselves in achieving this with all of our graduates, our strongest students are those who know what they're getting into and already have had a taste for "the joy of code". By providing clearly defined starting path for the *absolute beginners*, we can also raise the bar for students accepted to our full-time program as apprentices. A student will graduate with an even *stronger* skillset, ready to begin their professional career as a true journeyman developer. Traditionally the path from apprentice, to journeyman, to a master craftsman is overseen by a guild.
 
@@ -32,7 +32,7 @@ We believe what our campus has helped build with the community in St Petersburg 
 
 ## Looking Forward
 
-We look to expand the scope of The Suncoast Developers Guild's mission as a non-profit organization and continue the work of our team: **providing access to code education for _everyone_.**
+We look to expand the scope of The Suncoast Developers Guild's mission and continue the work of our team: **providing access to code education for _everyone_.**
 
 - Continue our immersive full-time education for students accepted into our program, paid for by tuition or sponsored scholarships.
 - Continue and expand on part-time curriculum for children and adults led by our instructors and community volunteers. These programs would serve as a prerequisite for and lead students into our immersive offerings.
@@ -47,6 +47,7 @@ Signed, The Iron Yard Team of Tampa Bay:
 - [__Jason L Perry__](https://twitter.com/ambethia)
 - [__Katherine Trammell__](https://twitter.com/ktrammell95)
 - [__Mark Dewey__](https://twitter.com/juggler2009)
+- [__Holly Valenty__](https://twitter.com/hollllllyv)
 - ...et al?
 
 ---
