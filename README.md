@@ -1,6 +1,8 @@
-**TL;DR:** The work done by The Iron Yard's team and our community will continue.
+**[DRAFT]**
 
 # On continuing The Iron Yard's legacy in Tampa Bay...
+
+> **TL;DR:** The work done by The Iron Yard's team and our community will continue.
 
 When The Iron Yard came to St Petersburg in 2014, it brought its mission of connecting people with the craft and lifelong adventure of technology and programming. Through its full-time immersive curriculum, our instructors had a proven track record of equipping students with the skills they needed to both get started and progress throughout their careers. Each of our campus' seven Demo Day events successively brought more and more of Tampa Bay's best technology companies together, looking to bring the new developers into the workforce.
 
