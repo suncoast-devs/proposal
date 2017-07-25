@@ -1,4 +1,12 @@
-# Budget
+# Course Offerings
+
+## Immersive Bootcamp
+
+### Front-end Engineering
+
+### Ruby on Rails
+
+### .NET
 
 - Team salaries & benefits
 - Location overhead and expenses (e.g. rent, utilities, furniture)
