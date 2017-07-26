@@ -24,15 +24,24 @@ As an additional revenue source, we would open the doors for co-working to invit
 
 We would improve upon our crash courses and free kids classes by creating an introductory curriculum that would also serve as prerequisite knowledge for acceptance into our full-time program. Taught by a combination of staff, community members and alumni, these classes would continue to be free, with the possibility of low-cost all day workshops as well.
 
+## Target Audiences
+
+- College graduates who are looking to transition from unsatisfying career paths
+- High school graduates looking for an alternative to college that puts them into the workforce sooner
+- Socioeconomically challenged people looking for opportunities to change that status
+- Designers and developers with basic HTML & CSS skills looking to round out their ability with solid programming skills
+
 ## Expenses
 
 - Team salaries & benefits
 - HR & accounting expenses (unlikely we'll need someone on this full-time)
 - Location overhead and expenses (e.g. rent, utilities, furniture)
 - Advertising & Marketing efforts
-- Other costs, e.g. events (demo day), travel (conferences), and computer equipment
+- Other costs, e.g. events (demo day, crash courses), travel (conferences), and computer equipment
 
-## Summary of additional (possible) sources of revenue in addition to immersive program tuition
+Many of these expenses can be substantially reduced from how TIY spent (e.g. luncheons for 25 students on graduation etc.)
+
+Additional (possible) sources of revenue in addition to immersive program tuition:
 
 - Co-working memberships
 - Workshops
