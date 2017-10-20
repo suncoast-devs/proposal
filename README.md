@@ -45,7 +45,7 @@ By offering cooperative memberships to donors and volunteer mentors we believe t
 Signed, The Iron Yard Team of Tampa Bay:
 
 - [__Jason L Perry__](https://twitter.com/ambethia)
-- [__Toni_Warren__](https://twitter.com/ToniWarren_)
+- [__Toni Warren__](https://twitter.com/ToniWarren_)
 - [__Gavin Stark__](https://twitter.com/gavinstark)
 - [__Mark Dewey__](https://twitter.com/juggler2009)
 - [__Holly Valenty__](https://twitter.com/hollllllyv)
